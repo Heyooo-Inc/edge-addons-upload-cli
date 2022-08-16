@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "strict": false,
+    "strictNullChecks": true,
+    "noImplicitAny": false,
+    "esModuleInterop": true,
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "stripInternal": true,
+    "removeComments": true,
+    "declarationMap": true,
+    "declaration": true,
+    "outDir": "lib",
+    "target": "es2018",
+    "module": "commonjs",
+    "moduleResolution": "node"
+  },
+  "include": [
+    "./src"
+  ]
+}
